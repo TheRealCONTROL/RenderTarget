@@ -160,10 +160,18 @@ Several APIs have been simplified to reduce boilerplate and make RenderTarget in
 
 # Credits
 
-This system was developed by **CONTROL**.
+Developed by **CONTROL**
 
-**Discord:** `control69`
+**Discord**
 
-For more free and premium Metin2 systems, tools, and resources, visit:
+```
+control69
+```
 
-https://pay2win-store.vercel.app/
+For more free and premium Metin2 systems, tools and resources:
+
+🌐 https://pay2win-store.vercel.app/
+
+---
+
+Please keep the original credits if you redistribute this project.
