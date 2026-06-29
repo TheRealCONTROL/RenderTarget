@@ -191,6 +191,7 @@ control69
 For more free and premium Metin2 systems, tools and resources:
 
 🌐 https://pay2win-store.vercel.app/
+🌐 https://metin2.dev/profile/32316-control/
 
 ---
 
